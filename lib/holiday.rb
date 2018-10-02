@@ -72,6 +72,7 @@ holiday_hash.each do |season, holidays|
       list.push(day)
     end
   end 
+  list
 end
 
 
